@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  width: 350px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+img {
+  border-radius: 8px;
+}

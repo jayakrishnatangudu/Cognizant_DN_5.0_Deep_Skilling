@@ -1,0 +1,24 @@
+.App {
+    padding: 20px;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: blue;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
